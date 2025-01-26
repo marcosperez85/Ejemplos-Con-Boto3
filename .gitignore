@@ -1,0 +1,17 @@
+# Entorno virtual
+EjemploSDK/
+Include/
+Lib/
+Scripts/
+
+# Archivos temporales de Python
+*.pyc
+*.pyo
+*.log
+
+# Configuración del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos relacionados con Pyenv
+.pyenv
