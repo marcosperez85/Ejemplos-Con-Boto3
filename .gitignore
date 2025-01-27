@@ -1,9 +1,6 @@
 # Entorno virtual
-EjemploSDK/
-EntornoVirtual/
-Include/
-Lib/
-Scripts/
+venv/
+.venv/
 
 # Archivos temporales de Python
 *.pyc
@@ -16,3 +13,6 @@ Thumbs.db
 
 # Archivos relacionados con Pyenv
 .pyenv
+
+# Archivos de entorno (como variables secretas)
+.env
