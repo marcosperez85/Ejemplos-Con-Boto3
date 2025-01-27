@@ -1,4 +1,4 @@
-# EjemploSDK - Pruebas con AWS Boto3
+# Pruebas con AWS Boto3
 
 Este repositorio contiene ejemplos prácticos para interactuar con servicios de AWS utilizando el SDK de Python (Boto3). Incluye scripts para listar buckets, crear buckets y gestionar archivos en S3.
 
@@ -9,7 +9,7 @@ Este repositorio contiene ejemplos prácticos para interactuar con servicios de 
 ## Instalación
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/EjemploSDK.git
+   git clone https://github.com/tuusuario/Ejemplos-Con-Boto3.git
    cd EjemploSDK
 
 2. Crea un entorno virtual (recomendado):
